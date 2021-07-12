@@ -1,6 +1,11 @@
+body {
+    background-color: black;
+}
+
 .header {
     margin 20px;
     border-radius: 20px;
     border-style:solid;
-    border-color: cadetblue;
+    border-color: rgb(200, 200, 200);
+    height 100px;
 }
