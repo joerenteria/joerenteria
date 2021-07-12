@@ -3,9 +3,9 @@ body {
 }
 
 .header {
-    margin 20px;
-    border-radius: 20px;
+    margin 40px;
+    border-radius: 40px;
     border-style:solid;
     border-color: rgb(200, 200, 200);
-    height 100px;
+    min-height 100px;
 }
