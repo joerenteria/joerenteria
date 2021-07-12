@@ -3,7 +3,7 @@ body {
 }
 
 .header {
-    margin 40px,40px,40px,40px;
+    margin: 40px,40px,40px,40px;
     background-color: rgb(255, 255, 255);
     border-radius: 40px;
     border-style:solid;
@@ -11,7 +11,7 @@ body {
     min-height: 100px;
 }
 .nav {
-    margin 40px,40px,40px,40px;
+    margin: 40px,40px,40px,40px;
     background-color: rgb(255, 255, 255);
     border-radius: 40px;
     border-style:solid;
@@ -19,7 +19,7 @@ body {
     min-height: 25px;
 }
 .navbutton {
-    margin 40px,40px,40px,40px;
+    margin: 40px,40px,40px,40px;
     background-color: rgb(255, 255, 255);
     border-radius: 40px;
     border-style:solid;
@@ -29,7 +29,7 @@ body {
     display: inline;
 }
 .content {
-    margin 40px,40px,40px,40px;
+    margin: 40px,40px,40px,40px;
     background-color: rgb(255, 255, 255);
     border-radius: 40px;
     border-style:solid;
