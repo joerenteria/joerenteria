@@ -10,3 +10,19 @@ body {
     border-color: rgb(200, 200, 200);
     min-height: 100px;
 }
+.nav {
+    margin 40px,40px,40px,40px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 40px;
+    border-style:solid;
+    border-color: rgb(200, 200, 200);
+    min-height: 25px;
+}
+.content {
+    margin 40px,40px,40px,40px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 40px;
+    border-style:solid;
+    border-color: rgb(200, 200, 200);
+    height:auto;
+}
