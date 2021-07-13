@@ -9,8 +9,13 @@ body {
 a {
     color: antiquewhite;
     text-decoration:none;
+    height: max-content;
+    width: max-content;
 }
 
+a:hover {
+    color:black;
+}
 
 .header {
     margin: 40px 40px 40px 40px;
@@ -47,7 +52,7 @@ a {
 
 .navbutton:hover {
     background-color: rgb(255, 255, 255, 1);
-    border-color: #383838;
+    color: #383838;
 
 }
 
@@ -60,6 +65,7 @@ a {
     border-color: #383838 255, .5);
     display:inline-block;
     padding: 5px 20px 5px 20px;
+    transition: background-color 1s;
 }
 .content {
     margin: 40px 40px 40px 40px;
