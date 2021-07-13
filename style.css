@@ -11,6 +11,7 @@ a {
     text-decoration:none;
 }
 
+
 .header {
     margin: 40px 40px 40px 40px;
     background-color: rgb(255, 255, 255, .5);
@@ -46,12 +47,13 @@ a {
 
 .navbutton:hover {
     background-color: rgb(255, 255, 255, 1);
+    border-color: #383838;
 
 }
 
 .navbutton {
     margin: 10px 20px;
-    background-color: rgb(255, 255, 255, .5);
+    background-color: rgb(105, 105, 105);
     border-radius: 5px;
     border-style:dashed;
     border-width: 1px;
