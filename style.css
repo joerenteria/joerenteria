@@ -3,26 +3,34 @@ body {
 }
 
 .header {
-    margin: 40px, 40px, 40px, 40px;
+    margin: 40px 40px 40px 40px;
     background-color: rgb(255, 255, 255);
     border-radius: 40px;
     border-style:solid;
     border-color: rgb(200, 200, 200);
     min-height: 100px;
 }
-.title{
+
+.title {
     margin: auto;
+    font-size: 25px;
+    text-align:center;
 }
+
 .nav {
-    margin: 40px,40px,40px,40px;
+    margin: 40px 40px 40px 40px;
     background-color: rgb(255, 255, 255);
     border-radius: 40px;
     border-style:solid;
     border-color: rgb(200, 200, 200);
-    min-height: 25px;
+    min-height: 205px;
 }
+
+.navlist {
+    margin: auto;
+}
+
 .navbutton {
-    margin: 40px,40px,40px,40px;
     background-color: rgb(255, 255, 255);
     border-radius: 40px;
     border-style:solid;
@@ -32,10 +40,11 @@ body {
     display: inline;
 }
 .content {
-    margin: 40px,40px,40px,40px;
+    margin: 40px 40px 40px 40px;
     background-color: rgb(255, 255, 255);
     border-radius: 40px;
     border-style:solid;
     border-color: rgb(200, 200, 200);
-    height:auto;
+    padding: 40px;
+    
 }
