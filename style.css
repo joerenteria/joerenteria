@@ -4,6 +4,10 @@ body {
     font:message-box;
 }
 
+.width {
+    margin: 0 10% 0 10%;
+}
+
 .heading {
     border-width: 0px 0px 1px 0px;
     border-style: solid;
@@ -18,7 +22,7 @@ body {
     font-size: 15;
 }
 .header {
-    margin: 10px 10% 10px 10%;
+    margin: 10px 0 10px 0
     padding: 25px;
 }
 
@@ -40,7 +44,7 @@ body {
 }
 
 .nav {
-    margin: 01px 10% 10px 10%;
+    margin: 01px 0 10px 0;
 
 }
 
@@ -62,7 +66,7 @@ body {
     color: #0e3a8a;
 }
 .content {
-    margin: 10px 10% 10px 10%;
+    margin: 10px 0 10px 0;
     padding: 40px; 
 }
 
@@ -70,7 +74,7 @@ body {
     position:fixed;
     left: 0;
     bottom: 0;
-    margin: 10px 10% 10px 10%;
+    margin: 10px 0 10px 10;
     width: 100%;
     color: #828282;
     text-align: center;
