@@ -6,8 +6,8 @@ body {
 
 .heading {
     border-width: 0px 0px 1px 0px;
-    border-style: dotted;
-    border-color: grey;
+    border-style: solid;
+    border-color: darkgrey;
     padding: 5px;
     font-size:20px;
     color: #0f3b8b;
@@ -71,5 +71,7 @@ body {
     left: 0;
     bottom: 0;
     margin: 10px 10% 10px 10%;
-    padding: 40px; 
+    width: 100%;
+    color: #828282;
+    text-align: center;
 }
