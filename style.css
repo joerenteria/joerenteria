@@ -4,8 +4,14 @@ body {
     font:message-box;
 }
 
+.heading
+    border-width: 0px 0px 0px 2px;
+
+.sub
+    border-width: 0px 0px 0px 2px; 
+
 .header {
-    margin: 20px 10% 20px 10%;
+    margin: 10px 10% 10px 10%;
     padding: 25px;
 }
 
@@ -16,17 +22,20 @@ body {
 }
 
 .border {
-    border-radius: 15px 0px 0px 0px;
+
     border-style:solid;
+    border-radius: 15px;
     border-width: 1px 0px 0px 1px;
     border-color:#9c9c9c;
 
 }
 
 .nav {
-    margin: 20px 10% 20px 10%;
+    margin: 01px 10% 10px 10%;
 
 }
+
+
 
 .nava:hover {
 
@@ -44,6 +53,6 @@ body {
     color: #0e3a8a;
 }
 .content {
-    margin: 20px 10% 20px 10%;
+    margin: 10px 10% 10px 10%;
     padding: 40px; 
 }
