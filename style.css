@@ -3,12 +3,10 @@ body {
     color: antiquewhite;
     font:message-box;
     color: white;
-  text-shadow: 2px 2px 10px #383838
 }
 
 .header {
     margin: 20px 40px 20px 40px;
-    background-color: rgb(255, 255, 255, .5);
     padding: 25px;
 }
 
@@ -19,11 +17,11 @@ body {
 }
 
 .border {
-    border-radius: 15px 0px 15px 0px;
-    border-style:solid;
+    border-radius: 5px 0px 0px 0px;
+    border-style:dotted;
     border-width: 1px 0px 0px 1px;
     border-color:black;
-    background-color: rgba(255, 255, 255, .25);
+
 }
 
 .nav {
@@ -34,15 +32,14 @@ body {
 .nava:hover {
 
     color:white;
-    background-color: #383838;
-    padding: 5px 50px 5px 20px;
+    padding: 5px 20px 5px 50px;
 }
 
 .nava {
     margin: 10px 20px;
     display:inline-block;
-    padding: 5px 20px 5px 20px;
-    transition: background-color 1s, padding .5s;
+    padding: 5px 50px 5px 20px;
+    transition: color 2s, padding .5s;
     text-decoration: none;
     color: black;
 }
