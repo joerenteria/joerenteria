@@ -34,7 +34,7 @@ a:hover {
 .border {
     border-radius: 20px;
     border-style:dashed;
-    border-width: 1px 1px;
+    border-width: 1px 1px 0px 0px;
     border-color: rgb(255, 255, 255, .5);
 }
 
